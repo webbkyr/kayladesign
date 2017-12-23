@@ -1,0 +1,37 @@
+.navList {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  position: fixed;
+  height: 100%;
+  width: 160px;
+  background-color: #739BE6;
+}
+
+a {
+  text-decoration: none;
+  
+}
+
+a:visited {
+  color: #F0B9B9;
+  
+}
+
+a:hover {
+  color: #111BFC;
+  text-shadow: -1px 1px 20px #ffc, 1px -1px 20px #fff;
+  transition: text-shadow 250ms linear 0s;
+  
+}
+
+.navAbout,
+.navServ,
+.navPort,
+.navCon {
+  padding-top: 40px;
+  padding-left: 20px;
+  color: #F0B9B9;
+  font-size: 24px;  
+
+}
