@@ -5,7 +5,7 @@
   list-style-type: none;
   position: fixed;
   height: 100%;
-  width: 160px;
+  width: 140px;
   background-color: #739BE6;
 }
 
@@ -43,5 +43,10 @@ a:hover {
   padding-left: 20px;
   color: #F0B9B9;
   font-size: 24px;  
+
+}
+
+.logomain {
+  border: 2px solid black;
 
 }
