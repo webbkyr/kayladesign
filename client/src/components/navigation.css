@@ -1,0 +1,19 @@
+.navList {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  border: 1px solid black;
+  position: fixed;
+  height: 100%;
+  width: 150px;
+  background-color: #739BE6;
+}
+
+.navAbout,
+.navServ,
+.navPort,
+.navCon {
+  padding-top: 30px;
+  padding-left: 20px;
+  color: #F0B9B9;
+}

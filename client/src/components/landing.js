@@ -8,11 +8,11 @@ import Contact from './contact'
 export default class Landing extends React.Component {
   render() {
    return ( <main>
-      <Header />
+      {/* <Header /> */}
       <Navigation />
-      <About />
-      <Services />
-      <Contact />
+      {/* <About /> */}
+      {/* <Services /> */}
+      {/* <Contact /> */}
     </main>
    )
   }
