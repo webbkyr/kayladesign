@@ -1,5 +1,5 @@
 import React from 'react'
 
-export function Navigation() {
+export default function Navigation() {
   //nav code
 }
