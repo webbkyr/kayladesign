@@ -1,0 +1,21 @@
+.bizName {
+  position: relative;
+  left: 110%;
+  top: 0;;
+
+}
+
+/* #kd, #kdesign {
+  max-width: 100px;
+} */
+
+#kd {
+  font-size: 150px;
+  color: #111BFC;
+  padding-right: 10px;
+}
+
+#kdesign {
+  color: #CD61E7;
+  font-size: 48px;
+}

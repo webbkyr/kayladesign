@@ -1,11 +1,21 @@
 .navList {
   margin: 0;
   padding: 0;
+  top: 0;
   list-style-type: none;
   position: fixed;
   height: 100%;
   width: 160px;
   background-color: #739BE6;
+}
+
+/* dummy element to take place of the nav that is removed from its normal position in the dom */
+.navSpacer {
+  top: 0;
+  margin: 0;
+  padding: 0;
+  width: 160px;
+  height: 100%;
 }
 
 a {
